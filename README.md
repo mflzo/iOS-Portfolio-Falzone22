@@ -6,7 +6,7 @@ I have never used GitHub before, so I am learning new things everytime I use it.
 
 Below is a sticker that I uploaded to our iOS Stickers app, it was also the first thing I ever did on GitHub
 
-! [GitHub Logo] (/images/scrub.png) 
+![GitHub Logo](/images/scrub.png) 
 
 ## New to XCode
 
