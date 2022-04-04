@@ -12,6 +12,8 @@ Over the time of using GitHub I've become more comfortable with repositories and
 
 Going into this class I have also never used XCode. I was able to learn a bunch of new things for XCode such as actually starting a project, and a few elements of coding from YouTube videos.
 
+My first XCode project was supposed to be a simple soundboard with 4 different buttons to play sounds. I had all of the visuals and buttons working but for some reason it wouldn't play the correct sound I wanted.
+
 ## New to Sketch
 
 Sketch for me was pretty similar to other photoshop apps I've used before. I've used Photoshop, Gimp, and plenty of mobile photoshop apps in my time. So Sketch for me was easier for me to get used to than GitHub and XCode.
