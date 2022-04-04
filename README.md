@@ -19,3 +19,5 @@ My first XCode project was supposed to be a simple soundboard with 4 different b
 Sketch for me was pretty similar to other photoshop apps I've used before. I've used Photoshop, Gimp, and plenty of mobile photoshop apps in my time. So Sketch for me was easier for me to get used to than GitHub and XCode.
 
 Sketch is something that personally for me would help me out in my journey, because coding and making things from scratch is difficult for me, I'm able to be useful in other ways such as creating art for the app or making in app designs and sprites.
+
+For example, the group project I'm a part of is a mobile game called Sky Skirmish, my teammates know what they're doing in terms of coding. So I am the art maker for the team, I create the art used in the game such as the spaceships, background, enemies, etc.
