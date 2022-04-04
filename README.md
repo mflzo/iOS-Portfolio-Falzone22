@@ -1,4 +1,4 @@
-# iOS-Portfolio-Falzone22
+# Matt Falzone iOS Spring 2022 portfolio
 
 Hello, my name is Matthew Falzone. This is my portfolio of both projects and just information on my journey through coding. I'll take you through challenges, different things I've learned, and accomplishments.
 
