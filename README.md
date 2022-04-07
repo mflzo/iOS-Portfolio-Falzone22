@@ -24,3 +24,10 @@ Sketch for me was pretty similar to other photoshop apps I've used before. I've 
 Sketch is something that personally for me would help me out in my journey, because coding and making things from scratch is difficult for me, I'm able to be useful in other ways such as creating art for the app or making in app designs and sprites.
 
 For example, the group project I'm a part of is a mobile game called Sky Skirmish, my teammates know what they're doing in terms of coding. So I am the art maker for the team, I create the art used in the game such as the spaceships, background, enemies, etc.
+
+
+## Soundboard
+
+The first app I ever created was a simple Soundboard app. Below is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
+
+https://github.com/mflzo/Sound-Board 
