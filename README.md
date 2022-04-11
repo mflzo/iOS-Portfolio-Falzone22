@@ -31,3 +31,7 @@ For example, the group project I'm a part of is a mobile game called Sky Skirmis
 The first app I ever created was a simple Soundboard app. Below is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
 
 https://github.com/mflzo/Sound-Board 
+
+## Sky Skirmish
+
+Sky Skirmish was a team project about a mobile game where you play as a fighter jet and shoot enemies and objects in your way. My job for the development for this app was to create the art and sprites. So far I have created the main ship that the player will use in the game, and I am in the process of creating enemy ships.
