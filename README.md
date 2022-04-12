@@ -36,6 +36,11 @@ The first app I ever created was a simple Soundboard app. Below is a link to the
 
 https://github.com/mflzo/Sound-Board 
 
+This is also the main layout for the app that I have designed right now.
+
+![Screen Shot 2022-04-12 at 10 17 07 AM](https://user-images.githubusercontent.com/98762863/162996005-d2299a37-5ec9-47d9-8b5a-101e2ecc5e80.png)
+
+
 ## Sky Skirmish
 
 Sky Skirmish was a team project about a mobile game where you play as a fighter jet and shoot enemies and objects in your way. My job for the development for this app was to create the art and sprites. So far I have created the main ship that the player will use in the game, and I am in the process of creating enemy ships.
