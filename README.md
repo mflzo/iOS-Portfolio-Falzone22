@@ -34,7 +34,7 @@ In sketch I haven't made anything too extreme, but one of the things I did make 
 
 The first app I ever created was a simple Soundboard app. Below is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
 
-https://github.com/mflzo/YeSoundboard/blob/main/README.md
+https://github.com/mflzo/YeSoundboard
 
 This is also the main layout for the app that I have designed right now.
 
