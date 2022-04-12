@@ -25,6 +25,10 @@ Sketch is something that personally for me would help me out in my journey, beca
 
 For example, the group project I'm a part of is a mobile game called Sky Skirmish, my teammates know what they're doing in terms of coding. So I am the art maker for the team, I create the art used in the game such as the spaceships, background, enemies, etc.
 
+In sketch I haven't made anything too extreme, but one of the things I did make and that I'll be using for one of my apps is this app icon I made
+
+![Kanye](https://user-images.githubusercontent.com/98762863/162995442-17c01760-ba4f-44da-bc44-f6d3665150fa.png)
+
 
 ## Soundboard
 
