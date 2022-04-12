@@ -39,3 +39,7 @@ https://github.com/mflzo/Sound-Board
 ## Sky Skirmish
 
 Sky Skirmish was a team project about a mobile game where you play as a fighter jet and shoot enemies and objects in your way. My job for the development for this app was to create the art and sprites. So far I have created the main ship that the player will use in the game, and I am in the process of creating enemy ships.
+
+Below is a link to the group repository for the app
+
+https://github.com/WillPeyer/SkySkirmish 
