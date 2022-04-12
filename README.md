@@ -45,6 +45,11 @@ This is also the main layout for the app that I have designed right now.
 
 Sky Skirmish was a team project about a mobile game where you play as a fighter jet and shoot enemies and objects in your way. My job for the development for this app was to create the art and sprites. So far I have created the main ship that the player will use in the game, and I am in the process of creating enemy ships.
 
+My personal job for the project, was to create the art and sprites for the objects in the game such as the jets, debris, etc. Below is a picture of one of the ships I created for the app 
+
+![Ship 2](https://user-images.githubusercontent.com/98762863/162996528-bb1f2f17-954c-426d-8705-73e6327a735a.png)
+
+
 Below is a link to the group repository for the app
 
 https://github.com/WillPeyer/SkySkirmish 
