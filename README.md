@@ -16,6 +16,8 @@ Going into this class I have also never used XCode. I was able to learn a bunch 
 
 My first XCode project was supposed to be a simple soundboard with 4 different buttons to play sounds. I had all of the visuals and buttons working but for some reason it wouldn't play the correct sound I wanted.
 
+Later in the year during term 2 of the class, me and my friend Stephane started another project which was a Fruit Ninja type slicer game which we would be following tutorials to code the whole game. This gave me some more experience in coding.
+
 
 ## New to Sketch
 
@@ -30,6 +32,9 @@ In sketch I haven't made anything too extreme, but one of the things I did make 
 ![Kanye](https://user-images.githubusercontent.com/98762863/162995442-17c01760-ba4f-44da-bc44-f6d3665150fa.png)
 
 
+Ultimately now I only use sketch for resizing images easier, as I did find a different photo editing software that I liked more during the year called gimp which I ended up using to edit and create photos such as my art in Sky Skirmish.
+
+
 ## Soundboard
 
 The first app I ever created was a simple Soundboard app. Below is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
@@ -41,7 +46,7 @@ This is also the main layout for the app that I have designed right now.
 ![Screen Shot 2022-04-12 at 10 17 07 AM](https://user-images.githubusercontent.com/98762863/162996005-d2299a37-5ec9-47d9-8b5a-101e2ecc5e80.png)
 
 
-## Sky Skirmish
+## [Sky Skirmish](https://github.com/WillPeyer/SkySkirmish)
 
 Sky Skirmish was a team project about a mobile game where you play as a fighter jet and shoot enemies and objects in your way. My job for the development for this app was to create the art and sprites. So far I have created the main ship that the player will use in the game, and I am in the process of creating enemy ships.
 
@@ -49,7 +54,3 @@ My personal job for the project, was to create the art and sprites for the objec
 
 ![Ship 2](https://user-images.githubusercontent.com/98762863/162996528-bb1f2f17-954c-426d-8705-73e6327a735a.png)
 
-
-Below is a link to the group repository for the app
-
-https://github.com/WillPeyer/SkySkirmish 
