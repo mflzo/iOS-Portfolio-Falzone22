@@ -9,6 +9,8 @@ I have never used GitHub before, so I am learning new things everytime I use it.
 
 Over the time of using GitHub I've become more comfortable with repositories and committing code, as well as new things like joining someone elses repository and making portfolios like this one.
 
+As of now I am comfortable with using GitHub, especially with getting code from other people and typing a README like this one.
+
 
 ## New to XCode
 
