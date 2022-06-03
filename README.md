@@ -25,23 +25,18 @@ Later in the year during term 2 of the class, me and my friend Stephane started 
 
 Sketch for me was pretty similar to other photoshop apps I've used before. I've used Photoshop, Gimp, and plenty of mobile photoshop apps in my time. So Sketch for me was easier for me to get used to than GitHub and XCode.
 
-Sketch is something that personally for me would help me out in my journey, because coding and making things from scratch is difficult for me, I'm able to be useful in other ways such as creating art for the app or making in app designs and sprites.
-
-For example, the group project I'm a part of is a mobile game called Sky Skirmish, my teammates know what they're doing in terms of coding. So I am the art maker for the team, I create the art used in the game such as the spaceships, background, enemies, etc.
+Sketch is something that personally for me would help me out in my journey, because coding and making things from scratch is difficult for me, I'm able to be useful in other ways such as creating art for the app or making in app designs and sprites. For example, the group project I'm a part of is a mobile game called Sky Skirmish, my teammates know what they're doing in terms of coding. So I am the art maker for the team, I create the art used in the game such as the spaceships, background, enemies, etc.
 
 In sketch I haven't made anything too extreme, but one of the things I did make and that I'll be using for one of my apps is this app icon I made
 
 ![Kanye](https://user-images.githubusercontent.com/98762863/162995442-17c01760-ba4f-44da-bc44-f6d3665150fa.png)
-
 
 Ultimately now I only use sketch for resizing images easier, as I did find a different photo editing software that I liked more during the year called gimp which I ended up using to edit and create photos such as my art in Sky Skirmish.
 
 
 ## [Soundboard](https://github.com/mflzo/YeSoundboard)
 
-The first app I ever created was a simple Soundboard app. Below is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
-
-https://github.com/mflzo/YeSoundboard
+The first app I ever created was a simple Soundboard app. above is a link to the actual app's repository where you can find more information on my journey through creating and uploading the app.
 
 This is also the main layout for the app that I have designed right now.
 
@@ -55,4 +50,10 @@ Sky Skirmish was a team project about a mobile game where you play as a fighter 
 My personal job for the project, was to create the art and sprites for the objects in the game such as the jets, debris, etc. Below is a picture of one of the ships I created for the app 
 
 ![Ship 2](https://user-images.githubusercontent.com/98762863/162996528-bb1f2f17-954c-426d-8705-73e6327a735a.png)
+
+## Ninja Slice Game
+
+Our ninja slicer game (which we don't have a name for yet) is currently being coded. Following the tutorials and walkthroughs from the website HackingWithSwift. A link below is provided to the tutorial we followed.
+
+https://www.hackingwithswift.com/read/23/overview 
 
