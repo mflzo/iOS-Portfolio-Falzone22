@@ -51,6 +51,10 @@ My personal job for the project, was to create the art and sprites for the objec
 
 ![Ship 2](https://user-images.githubusercontent.com/98762863/162996528-bb1f2f17-954c-426d-8705-73e6327a735a.png)
 
+The game has been finished and was posted to the appstore and is currently available for anyone to download and play! Below is the link to the app itself in the appstore
+
+https://apps.apple.com/tt/app/sky-skirmish/id1610373409 
+
 ## Ninja Slice Game
 
 Our ninja slicer game (which we don't have a name for yet) is currently being coded. Following the tutorials and walkthroughs from the website HackingWithSwift. A link below is provided to the tutorial we followed.
