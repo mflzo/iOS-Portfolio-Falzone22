@@ -72,5 +72,5 @@ Below are 2 pictures we took to use as assets in our game, picture 1 of course b
 ![sliceBackground](https://user-images.githubusercontent.com/98762863/172657755-09921521-58da-4948-ac3d-038fecdf3ee5.png)
 
 
-Over the course of a few weeks me and Stephane created and finished Bednar Slice, and as of right now it is currently in test flight.
+Over the course of a few weeks me and Stephane created and finished Bednar Slice, and as of right now we are currently trying to get it into Test Flight, and later the App Store.
 
