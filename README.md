@@ -61,7 +61,12 @@ Our ninja slicer game (which we don't have a name for yet) is currently being co
 
 https://www.hackingwithswift.com/read/23/overview 
 
-Below are 2 pictures we took to use as assets in our game, picture 1 of course being Mr. Bednar's face which will act as the object you slice. The second image being a background of lockers that will be the setting for the game.
+Below are 2 pictures we took to use as assets in our game, picture 1 of course being Mr. Bednar's face which will act as the object you slice, as well as the icon for the app. The second image being a background of lockers that will be the setting for the game.
+
+![penguin](https://user-images.githubusercontent.com/98762863/172657606-b661dd9e-cc04-480b-b97e-be512b259bbe.png)
+
+![sliceBackground](https://user-images.githubusercontent.com/98762863/172657755-09921521-58da-4948-ac3d-038fecdf3ee5.png)
+
 
 Over the course of a few weeks me and Stephane created and finished Bednar Slice, and as of right now it is currently in test flight.
 
