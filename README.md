@@ -18,7 +18,7 @@ Going into this class I have also never used XCode. I was able to learn a bunch 
 
 My first XCode project was supposed to be a simple soundboard with 4 different buttons to play sounds. I had all of the visuals and buttons working but for some reason it wouldn't play the correct sound I wanted.
 
-Later in the year during term 2 of the class, me and my friend Stephane started another project which was a Fruit Ninja type slicer game which we would be following tutorials to code the whole game. This gave me some more experience in coding.
+Later in the year during term 2 of the class, me and my friend Stephane started another project which was a Fruit Ninja type slicer game named "Bednar Slice" where you slice Mr. Bednar's head when it comes up on the screen. We would be following tutorials to code the whole game. This gave me some more experience in coding.
 
 
 ## New to Sketch
@@ -55,9 +55,13 @@ The game has been finished and was posted to the appstore and is currently avail
 
 https://apps.apple.com/tt/app/sky-skirmish/id1610373409 
 
-## Ninja Slice Game
+## Bednar Slice
 
 Our ninja slicer game (which we don't have a name for yet) is currently being coded. Following the tutorials and walkthroughs from the website HackingWithSwift. A link below is provided to the tutorial we followed.
 
 https://www.hackingwithswift.com/read/23/overview 
+
+Below are 2 pictures we took to use as assets in our game, picture 1 of course being Mr. Bednar's face which will act as the object you slice. The second image being a background of lockers that will be the setting for the game.
+
+Over the course of a few weeks me and Stephane created and finished Bednar Slice, and as of right now it is currently in test flight.
 
