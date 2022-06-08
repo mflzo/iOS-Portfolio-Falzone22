@@ -55,7 +55,7 @@ The game has been finished and was posted to the appstore and is currently avail
 
 https://apps.apple.com/tt/app/sky-skirmish/id1610373409 
 
-## Bednar Slice
+## [Bednar Slice](https://github.com/Skone5/BednarSlice-.git)
 
 Our ninja slicer game (which we don't have a name for yet) is currently being coded. Following the tutorials and walkthroughs from the website HackingWithSwift. A link below is provided to the tutorial we followed.
 
