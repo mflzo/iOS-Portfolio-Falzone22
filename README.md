@@ -51,7 +51,11 @@ My personal job for the project, was to create the art and sprites for the objec
 
 ![Ship 2](https://user-images.githubusercontent.com/98762863/162996528-bb1f2f17-954c-426d-8705-73e6327a735a.png)
 
-The game has been finished and was posted to the appstore and is currently available for anyone to download and play! Below is the link to the app itself in the appstore
+Here is also a screenshot of gameplay
+
+![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-27 at 11 05 19](https://user-images.githubusercontent.com/98762863/172661205-6ee5276a-2b5b-4555-a115-fe1aa8ed0e61.png) 
+
+The game has been finished and was posted to the appstore and is currently available for anyone to download and play! Below is the link to the app itself in the appstore.
 
 https://apps.apple.com/tt/app/sky-skirmish/id1610373409 
 
